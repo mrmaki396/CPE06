@@ -196,7 +196,7 @@ section::before {
 .dropdown-item {
   padding: 30px;
   border: 1px solid var(--text);
-  background: var(--bg);
+  background: transparent;
   border-radius: 4px;
 }
 
